@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+*{
+    margin: 15px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+body{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+h1{
+	font-style: italic;
+	font-size: 40px;
+}
+
+div{
+	border: 2px solid;
+	text-align: center;
+	width: 40%;
+}
